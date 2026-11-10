@@ -7,4 +7,17 @@ set your git username and email address gituses this information to identify who
 
 command 
 
-git 
+git
+
+---
+
+## 4. Branch Management
+
+### 1. git branch
+
+**What it does:** Shows all local branches in your repository.
+
+**Example:**
+
+```bash
+git branch
